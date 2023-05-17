@@ -17,7 +17,7 @@
     .escola-imagem{
         width: 40%;
     }
-    .Escola{
+    .escola{
         background-image: linear-gradient(#434780, #91a3dd);
         color:#17165e;
         display:flex;
@@ -46,6 +46,7 @@ width: 200px;
 text-align: center;
     }
     .estudante-titulo{
+        align-items: center;
         text-align: center;
         padding: 30px 0;
     }
@@ -60,3 +61,4 @@ text-align: center;
         padding: 12px 0;
         text-align: center;
     }
+   
